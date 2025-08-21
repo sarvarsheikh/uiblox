@@ -1,0 +1,11 @@
+{
+  "name": "uiblox",
+  "version": "1.0.0",
+  "description": "Modern React components with Tailwind CSS Copy, paste, and customize beautiful UI elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
